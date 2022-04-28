@@ -1,0 +1,36 @@
+---
+title: Myrealtrip Website
+date: 2022-01-02 06:21:35 +0300
+subtitle: UX/UI, 2013
+image: '/images/myrealtrip-website-cover.png'
+---
+
+## CHALLANGE
+
+마이리얼트립은 현지에 대해 잘 알고있는 사람이 여행자의 개인 가이드가 될 수 있게 연결해주는 중개 서비스입니다. 현지인은 직접 마이리얼트립에 가입하고 가이드로 등록할 수 있으며, 코스도 직접 구성해 상품을 등록합니다. 여행자는 현지인 가이드가 등록한 상품 중 원하는 것을 고르면 여행지에서의 만남이 성사됩니다.
+
+2013년 8월 이전의, 기존 마이리얼트립 웹사이트는 커머스보다 블로그에 가까운 정보 구조와 디자인 형태를 취하고 있었습니다. 일반 여행 상품 구매 고객에게는 다소 낯설고 불친절한 디자인으로, 국내 사용자에게 익숙한 모습으로의 리뉴얼이 필요했고, 대중적이고 신뢰감을 줄 수 있는 웹사이트를 만드는 것을 목표로 했습니다.
+
+‘여행’이라는 상품 특성상 웹사이트에서 단순히 구매만 이루어지는 것은 아닙니다. 당장 여행을 가지 못하더라도 이 상품, 저 상품 구경하며 여행을 상상하는 즐거움이 있는 사이트로 만들고자 했습니다.
+
+## MY ROLE
+
+* UX/UI Design
+* Frond-end Code 일부 (모바일 페이지는 Bootstrap 활용)
+
+## DESIGN OUTPUT
+
+<img src="/images/main-01.jpg" loading="lazy" alt="Project">
+<em>메인 페이지</em>
+
+<img src="/images/mrt-02.jpg" loading="lazy" alt="Project">
+<em>도시별 상품 목록</em>
+
+<img src="/images/mrt-03.jpg" loading="lazy" alt="Project">
+<em>가이드 프로그램 상세페이지</em>
+
+## PRODUCT LINK
+
+* <a href="http://myrealtrip.com/">Myrealtrip Website</a>
+
+<em>오래 된 버전으로, 현재는 계속 진화하고 있습니다.</em>
