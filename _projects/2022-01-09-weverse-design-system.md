@@ -15,15 +15,6 @@ image: '/images/portfolio-website-cover-system.png'
 * 파일 내 규칙에 기반한 UI KIT 작업
 * Design System Documentation (zeroheight 사용)
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
 ## ISSUE & SOLUTION
 
 ### 1. UI KIT 만들기
