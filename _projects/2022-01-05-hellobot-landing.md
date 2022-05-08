@@ -19,7 +19,7 @@ image: '/images/hellobot-landing-cover.png'
 
 1p로 간략하게 앱 서비스와 챗봇 내 캐릭터를 소개하는 구성으로 디자인되었습니다. 특히 스크린샷 부분을 실제 캐릭터가 말을 걸어주는 장면을 그대로 캡쳐한 Animation gif 파일로, 실제 서비스를 이용하는 느낌을 생생하게 소개하고자 하였습니다.
 
-<img src="/images/hellobotlanding_screenshot.gif" loading="lazy" alt="Project">
+<img src="/images/hellobotlanding_screenshot.gif" loading="lazy" alt="Project" style="display:block;margin:0 auto;">
 <em>사용된 animation gif</em>
 
 ### 모바일 해상도
@@ -55,7 +55,6 @@ image: '/images/hellobot-landing-cover.png'
 
 <img src="/images/hellobotlanding_v2_pc_2.png" loading="lazy" alt="Project">
 <em>캐릭터 세계관</em>
-
 
 ### PRODUCT LINK
 

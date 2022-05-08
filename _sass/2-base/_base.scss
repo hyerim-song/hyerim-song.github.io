@@ -11,6 +11,7 @@ body {
   background-color: var(--background-color);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  word-break: keep-all;
 
   &.disable-animation {
     *, *::after, *::before {
@@ -135,7 +136,7 @@ img,
   &+em {
     display: block;
     margin-top: 20px;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 100%;
     font-style: normal;
     font-weight: normal;
