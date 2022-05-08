@@ -1,0 +1,56 @@
+I"�<h2 id="challenge">CHALLENGE</h2>
+
+<p>제주닷컴은 제주도 여행을 전문으로 하는 로컬 여행사입니다. 지역과 연계된 좋은 상품을 많이 가지고 있지만, 웹사이트의 정보 구조가 너무 복잡하며 오래된 스타일을 가지고 있었습니다.
+때문에 처음 웹사이트로 제주닷컴을 만나는 사용자가 사이트 운영주체에 대한 신뢰감을 가지고 상품을 탐색한 뒤 구매까지 이르기 어려웠고, 전면적인 디자인 리뉴얼을 통해 이 문제를 해결하는 것을 목표로 하였습니다.</p>
+
+<p><img src="/images/jeju-before.jpg" loading="lazy" alt="Project" />
+<em>리뉴얼 이전 디자인</em></p>
+
+<h2 id="my-role">MY ROLE</h2>
+<ul>
+  <li>UI Design(메인 디자인 – 3인 공동작업)</li>
+  <li>Design Guide</li>
+  <li>Design PL</li>
+</ul>
+
+<h2 id="goal">GOAL</h2>
+
+<ul>
+  <li>컨텐츠에 집중할 수 있는 쉽고 단순한 디자인으로 구매 전환율을 높임</li>
+</ul>
+
+<h3 id="solution">SOLUTION</h3>
+
+<ul>
+  <li>기존의 포털 방식보다 단순/간소화한 레이아웃을 사용</li>
+  <li>키 컬러인 오렌지색의 명도와 채도를 높여 조금 더 트렌디한 스타일을 지항</li>
+  <li>사용자가 이 페이지에서 뭘 해야 하는지 바로 알 수 있게 인터랙션과 폼 형태 정리</li>
+  <li>제주여행 관련 이미지나, 상품 관련 이미지를 큼직하게 배치하여 제주여행에 특화된 사이트라는 느낌을 전달</li>
+</ul>
+
+<h2 id="design-output">DESIGN OUTPUT</h2>
+
+<p><img src="/images/jeju01.jpg" loading="lazy" alt="Project" />
+<em>메인 페이지</em></p>
+
+<p><img src="/images/jeju02.jpg" loading="lazy" alt="Project" />
+<em>항공 - 검색 결과</em></p>
+
+<p><img src="/images/jeju03.jpg" loading="lazy" alt="Project" />
+<em>항공 - 예약</em></p>
+
+<p><img src="/images/jeju06.jpg" loading="lazy" alt="Project" />
+<em>항공 - 결제</em></p>
+
+<p><img src="/images/jeju04.jpg" loading="lazy" alt="Project" />
+<em>호텔 - 검색결과</em></p>
+
+<p><img src="/images/jeju05.jpg" loading="lazy" alt="Project" />
+<em>호텔 - 상세페이지</em></p>
+
+<h2 id="product-link">PRODUCT LINK</h2>
+
+<ul>
+  <li><a href="http://jeju.com/">Jeju.com Website</a></li>
+</ul>
+:ET

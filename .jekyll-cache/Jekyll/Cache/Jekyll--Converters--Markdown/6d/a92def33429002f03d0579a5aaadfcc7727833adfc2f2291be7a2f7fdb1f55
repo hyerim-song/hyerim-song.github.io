@@ -1,0 +1,61 @@
+I"�
+<h2 id="challange">CHALLANGE</h2>
+
+<p>터칭은 신용카드나 교통카드, 사원증, 핸드폰 안에 있는 NFC 칩을 활용하여 여러 상점의 멤버십 포인트를 통합해서 쌓고, 앱으로 한꺼번에 관리 가능한 서비스입니다. 유저에게는 생활의 편리함을, 업주에게는 고객에게 편리함을 제공함과 동시에 광고 플랫폼으로서의 역할을 도모하고자 하였습니다.</p>
+
+<p>막 시작하는 스타트업이었기 때문에 주 분야인 UI 뿐만 아니라 BI와 홍보 브로슈어나 POP 등 폭넓은 분야의 디자인을 해야 했습니다. 개성있는 아이덴티티를 만들기보다는 고객이 신뢰감을 줄 수 있는 견고한 아이덴티티와 비주얼을 만드는 동시에, 앱 디자인에 있어서는 포인트를 간결하고 직관적으로 확인할 수 있되 각 제휴사의 브랜드를 돋보이게 할 수 있는 UI를 만들고자 하였습니다.</p>
+
+<h2 id="my-role">MY ROLE</h2>
+
+<ul>
+  <li>App - UX&amp;UI Design</li>
+  <li>Landing Page - Design, Copywriting, Code</li>
+  <li>BI &amp; Application Design</li>
+  <li>Brochure Design</li>
+</ul>
+
+<h2 id="design-output">DESIGN OUTPUT</h2>
+
+<h3 id="android-app">Android App</h3>
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/touching-android01.jpg" loading="lazy" alt="Project" />
+    <img src="/images/touching-android02.jpg" loading="lazy" alt="Project" />
+  </div>
+  <em>카드 리스트(앞) / 카드 리스트 (뒤)</em>
+</div>
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/touching-android03.jpg" loading="lazy" alt="Project" />
+    <img src="/images/touching-android04.jpg" loading="lazy" alt="Project" />
+  </div>
+  <em>가게 목록 / 가게 정보</em>
+</div>
+
+<h3 id="ios-app">iOS App</h3>
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/touching-iphone01.png" loading="lazy" alt="Project" />
+    <img src="/images/touching-iphone02.png" loading="lazy" alt="Project" />
+  </div>
+  <em>카드 리스트(앞) / 카드 리스트 (뒤)</em>
+</div>
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/touching-iphone03.png" loading="lazy" alt="Project" />
+    <img src="/images/touching-iphone04.png" loading="lazy" alt="Project" />
+  </div>
+  <em>가게 목록 / 가게 정보</em>
+</div>
+
+<h3 id="landing-page">Landing Page</h3>
+
+<p><img src="/images/touching-website.jpg" loading="lazy" alt="Project" /></p>
+
+<h2 id="product-link">PRODUCT LINK</h2>
+<ul>
+  <li><a href="https://play.google.com/store/apps/details?id=com.touching.delta">Touching Android App</a></li>
+  <li><a href="https://itunes.apple.com/kr/app/teoching/id634896748?mt=8">Toucning iOS App</a></li>
+  <li><a href="http://www.mytouching.com/">Touching Landing Page</a></li>
+</ul>
+:ET

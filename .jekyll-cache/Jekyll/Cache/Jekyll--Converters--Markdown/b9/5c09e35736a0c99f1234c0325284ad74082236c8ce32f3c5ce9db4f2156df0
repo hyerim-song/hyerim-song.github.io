@@ -1,0 +1,85 @@
+I"r<h2 id="challenge">CHALLENGE</h2>
+
+<p>아이돌 팬들은 굿즈 구매를 통해 아이돌과 내가 상호작용하는 모든 순간을 기념하고 싶어합니다.  그러나 오프라인 행사에 참여하게 된다면, 적지 않은 돈을 내고 굿즈를 사야 할 때조차 늘 지독하게 긴 줄을 감당해야 합니다.</p>
+
+<p>콘서트 현장에서 직접 구매하는 경험을 유지하는 동시에 기존의 비교적 익숙한 온라인샵 구매와 유사한 프로세스로 콘서트 현장의 굿즈 구매를 쉽게 하고, 사전에 구매한 굿즈를 덜 복잡한 시간에 분산되어 찾아갈 수 있도록 하는 것이 이 프로젝트의 목표였습니다.</p>
+
+<p><img src="/images/wevrseshop_pickup_challenge.png" loading="lazy" />
+<em>현장수령 도입 전, 굿즈를 사기 위한 행렬</em></p>
+
+<h2 id="my-role">MY ROLE</h2>
+
+<ul>
+  <li>UX/UI Design</li>
+  <li>Design QA (한국어, 영어, 일본어)</li>
+</ul>
+
+<h2 id="user-flow">USER FLOW</h2>
+<ol>
+  <li>유저가 콘서트장 2.5km 안에 접근시 현장수령 장소의 혼잡도를 홈 화면에서 하단 배너로 보여줍니다.</li>
+  <li>콘서트 굿즈를 일반 배송상품과 동일한 플로우로 구매합니다.</li>
+  <li>앱 또는 이미지로 저장한 교환권의 QR 코드를 제출하여 현장수령 장소에서 수령합니다.</li>
+</ol>
+
+<iframe src="https://player.vimeo.com/video/507850006?h=5353ba2123" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+<p></p>
+
+<h2 id="issue--solution">ISSUE &amp; SOLUTION</h2>
+
+<h3 id="1-현장의-인원-수-폭발로-인한-통신상-문제-해결하기">1. 현장의 인원 수 폭발로 인한 통신상 문제 해결하기</h3>
+
+<p>BTS의 스타디움 콘서트에는 5만명이 넘는 인원이 입장하게 됩니다. 또한 재정 부족이나 선착순 구매 실패 등의 여러 가지 이유로 콘서트 티켓을 구매하지 못한 팬들도 추가로 방문하기 때문에 실제로 공연장 구역에 입장하는 팬의 인원은 8만 명 이상으로 추정됩니다. 앱을 통해 알림을 받고, 구입한 굿즈를 원활히 교환할 수 있으려면 원활한 통신 상태가 전제되어야 하는데 그렇지 못할 확률이 높았습니다.</p>
+
+<p>카카오톡 등에서 사용하는 디지털 상품 교환권에서 아이디어를 얻어, QR Code가 출력된 화면을 캡쳐하는 방식으로 사진첩에 저장하는 교환권 화면을 만들었습니다. 이미지 형태로 저장된 교환권을 통해 통신 상태에 관계없이 빠르게 굿즈를 교환할 수 있었습니다. 또한 애플 플랫폼 같은 경우는 애플 월렛의 교환권 형태도 지원하여 다양한 환경에서 편리하게 이용하는 동시에, 콘서트 현장의 추억으로 남을 수 있도록 했습니다.</p>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/weveseshop_pickup_01.png" loading="lazy" alt="사진첩에 저장할 수 있는 이미지 교환권" />
+    <img src="/images/weverseshop_pickup_02.png" loading="lazy" alt="애플 월렛 형태의 교환권" />
+  </div>
+  <em>사진첩에 저장할 수 있는 이미지 교환권과 애플 월렛 형태의 교환권</em>
+</div>
+
+<h3 id="2-제한된-기술로-최적의-정보-제공하기">2. 제한된 기술로 최적의 정보 제공하기</h3>
+
+<p>굿즈 판매 장소에 얼마나 다른 사람들이 줄을 서있는지, 줄을 서면 언제쯤 굿즈를 살 수 있는 지에 대한 정보가 없어 판매 장소가 오픈하는 순간부터 콘서트 직전까지 긴 줄을 서야 했습니다. 따라서 구매한 굿즈를 대략 언제쯤 받을 수 있는지에 대한 정보를 제공해야 했는데, 개발상의 제약으로 인해 앱에 보낼 수 있는 정보의 형태가 한정되어 있었습니다.</p>
+
+<p>현장의 혼잡도를 4가지 상태로 정의하여, 현장 수령 장소의 혼잡도 상태에 따라 콘서트 현장 반경에 접근한 사용자 상대로 이모티콘과 컬러를 사용한 고정 배너 형태로 출력합니다.</p>
+
+<ul>
+  <li>원활</li>
+  <li>보통</li>
+  <li>혼잡</li>
+  <li>매우 혼잡</li>
+</ul>
+
+<p>또한, 상품상세 및 구매 내역 상세 영역에도 띠 라벨 형태로 현장 위치를 안내하는 인포그래픽과 함께 출력하여 유저가 어느 시점에서든 굿즈 수령 장소의 혼잡도를 알 수 있도록 했습니다.</p>
+
+<p><img src="/images/weverseshop_pickup_03.png" loading="lazy" />
+<em>현장의 4가지 상태에 따른 배너의 변화</em></p>
+
+<p><img src="/images/weverseshop_pickup_04.png" loading="lazy" />
+<em>주문내역 상세 및 상품상세의 현장 상태 표시</em></p>
+
+<h2 id="result">RESULT</h2>
+
+<p>2019년 10월 27,28,29일 3일간 치루어진 BTS의 월드 투어 LOVE YOURSELF : SPEAK YOURSELF [THE FINAL] 서울 공연에서 위플리(위버스샵) 앱을 통한 판매 및 현장수령이 이루어졌습니다. 처음 적용해보는 시스템인 만큼 사전에 많은 테스트 및 점검이 이루어졌고, 직접 현장을 방문해서 체크하기도 했습니다. 초기에는 약간의 시행착오도 있었으나, 운영 노하우가 생기면서 점점 더 시간당 수령 속도가 올라갔고, 4가지 상태별로 실제 예상 대기시간을 현장에 보여주는 형태의 개선도 있었습니다.</p>
+
+<p>팬들은 새벽부터 굿즈를 사기 위해 줄을 서지 않고, 그 대신 공연장에 마련된 플레이존의 여러 시설들을 즐길 수 있었습니다. 전 세계에서 방문한 팬들이 의도한 대로 원활히 시스템을 사용하였고, 유저 평판 및 만족도도 높았습니다.</p>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/weverseshop_pickup_result_01.jpg" loading="lazy" alt="" />
+    <img src="/images/weverseshop_pickup_result_02.jpg" loading="lazy" alt="" />
+  </div>
+  <em>굿즈 교환 현장의 모습. 대부분 이미지 형태의 교환권을 켠 상태로, 빠른 굿즈 교환이 이루어지는 양상</em>
+</div>
+
+<h2 id="product-link">PRODUCT LINK</h2>
+<p>콘서트, 팝업 스토어 등의 이벤트시에만 작동되는 기능입니다.</p>
+
+<ul>
+  <li><a href="https://play.google.com/store/apps/details?id=co.benx.weply&amp;hl=ko&amp;gl=US">Weverse Shop for Android </a></li>
+  <li><a href="https://apps.apple.com/kr/app/weverse-shop/id1456559072?l=en">Weverse shop for iOS </a></li>
+</ul>
+:ET
