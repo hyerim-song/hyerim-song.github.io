@@ -85,4 +85,4 @@ image: '/images/plantshower-cover.png'
 * <a href="https://plantshower.xyz">Plantshower </a>
 * <a href="https://plantshower.xyz/about/">Plantshower 소개 랜딩 페이지 </a>
 * <a href="https://plantshower.postype.com/">Plantshower 개발 블로그 - 디자인 15년차, 개발 1년차</a>
-* <a href="ttps://plantshower.xyz/hyerim/">직접 기르고 있는 식물 목록</a>
+* <a href="https://plantshower.xyz/hyerim/">직접 기르고 있는 식물 목록</a>
