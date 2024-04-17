@@ -47,7 +47,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hyerim Song, <br/> Product Deigner Based in Seoul.
-  hero__description: 디지털 프로덕트의 UX/UI를 디자인합니다. <br /> 운영하고 있는 모바일 앱 기반 서비스를 애자일 프로세스를 통해 데이터 기반으로 디자인을 개선하는 작업이나, 오래된 플랫폼의 디자인을 새로운 비즈니스 목표에 맞게 전면 리뉴얼하는 작업, 신규 플랫폼을 구축하는 작업 등을 했습니다. 디자인 리소스를 시스템화/효율화하고 유저의 사용 패턴에 최적화된 일관적 디자인을 설계하는 데 관심이 많습니다.
+  hero__description: 누구나 사용하기 쉬우며, 일관된 UX/UI 디자인을 하고자 합니다. <br />운영하고 있는 모바일 앱 기반 서비스를 애자일 프로세스를 통해 점진적으로 디자인을 개선하는 작업이나, 오래된 플랫폼의 디자인을 새로운 비즈니스 목표에 맞게 전면 리뉴얼하는 작업, 신규 플랫폼을 구축하는 작업 등을 했습니다. 또한, 실제 코드가 작동하는 방식에 맞추어 디자인 리소스를 시스템화/효율화했던 경험이 있습니다. 
   hero__image: ''
 
 
@@ -136,8 +136,8 @@ footer_menu__settings:
     #  url: '/blog/'
     - url: '/about/'
       title: 'About'
-    #- url: '/contact/'
-    #  title: 'Contact'
+    - url: '/contact/'
+      title: 'Contact'
     #- url: '/elements/'
     #  title: 'Elements'
 
