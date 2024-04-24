@@ -28,9 +28,6 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-  privates:
-    output: true
-    permalink: /private/:slug
 
 # Pages Path
 defaults:
@@ -51,11 +48,6 @@ defaults:
   - scope:
       path: ""
       type: "projects"
-    values:
-      layout: "project"
-  - scope:
-      path: ""
-      type: "privates"
     values:
       layout: "project"
 
